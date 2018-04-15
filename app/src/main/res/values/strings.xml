@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TinkoffNews</string>
+
+    <string name="error.loading">Ошибка при загрузке, проверьте подключение к интернету</string>
+
+</resources>
